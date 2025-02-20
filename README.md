@@ -50,8 +50,8 @@ PSNR moyen: 20.18
 PSNR moyen: 19.94
 
 ### 4. Comparaison des Résultats des Trois Modèles
-- Comparaison des performances des autoencodeurs et des techniques classiques pour la réduction de bruit.
-- Analyse des métriques PSNR pour déterminer la méthode la plus efficace.
+- Comparaison des performances des autoencodeurs  pour la réduction de bruit.
+- ![img5 Image](./images/img5.png)
 
 ---
 📌 **Note:** Les images de sortie et les résultats des évaluations sont disponibles dans le dossier `images/`. Assurez-vous d'exécuter le notebook pour générer les résultats.
