@@ -1,7 +1,9 @@
 # Application of Autoencoders and Classical Techniques for Image Denoising
 
 ## 📌 Objective
-The objective of this project is to understand the functioning of autoencoders, implement them, and use them for image denoising. We will learn how to:
+The objective of this project is to understand the functioning of autoencoders, implement them, and use them for image denoising. 
+
+This project applies Autoencoders to remove noise from images and compares their performance with classical denoising techniques. Using the MNIST dataset, synthetic noise is added, and denoising methods like Gaussian filtering and median filtering are tested. The performance of each method is evaluated using PSNR and SSIM metrics.
 
 ### 1. Data Loading and Preparation
 - Load the MNIST dataset and add noise.
